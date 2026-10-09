@@ -33,7 +33,7 @@ app.get('/', (req, res) => {
         statusCode: 200,
         data: {
             message:
-                'WebApp API - Tercera prueba CI/CD exitosa'
+                'WebApp API - TEST prueba CI/CD exitosa'
         }
     });
 
